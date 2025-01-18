@@ -1,9 +1,9 @@
 # Change these first
-owner: Andrew-Forster
+owner: andrew-forster
 repo: upptime # The name of this repository
 
 sites:
-  - name: Personal / About Site
+  - name: Personal Site
     url: https://andrewjf.com
   - name: Blog Site
     url: https://blog.andrewjf.com
@@ -13,19 +13,19 @@ sites:
 status-website:
   theme: dark
   cname: status.andrewjf.com
-  logoUrl: https://andrewjf.com/Assets/Images/Me.jpg
+  logoUrl: https://andrewjf.com/assets/images/me.jpg
   name: Upptime
   introTitle: "This site is used to track up-time and down-time for website created by Andrew."
   introMessage: The status of my sites are listed below
   navbar:
     - title: Uptime Repo
-      href: https://github.com/Andrew-Forster/upptime
+      href: https://github.com/andrew-forster/upptime
     - title: Personal / About Site
       url: https://andrewjf.com
     - title: Blog Site
       url: https://blog.andrewjf.com
     - title: Alchemy Analytix
-      url: https://alchemyanalytix.com/
+      url: https://alchemyanalytix.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
