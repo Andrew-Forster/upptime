@@ -2,22 +2,19 @@
 owner: Andrew-Forster
 repo: upptime # The name of this repository
 
-assignees:
-  - Andrew-Forster
-
 sites:
   - name: Personal / About Site
     url: https://andrewjf.com
   - name: Blog Site
     url: https://blog.andrewjf.com
   - name: Alchemy Analytix
-    url: https://alchemyanalytix.com/
+    url: https://alchemyanalytix.com
 
 status-website:
   theme: dark
   baseUrl: /upptime
   logoUrl: https://andrewjf.com/Assets/Images/Me.jpg
-  name: Uptime
+  name: Upptime
   introTitle: "This site is used to track up-time and down-time for website created by Andrew."
   introMessage: The status of my sites are listed below
   navbar:
