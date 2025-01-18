@@ -12,7 +12,7 @@ sites:
 
 status-website:
   theme: dark
-  baseUrl: /upptime
+  cname: status.andrewjf.com
   logoUrl: https://andrewjf.com/Assets/Images/Me.jpg
   name: Upptime
   introTitle: "This site is used to track up-time and down-time for website created by Andrew."
