@@ -22,7 +22,7 @@ status-website:
   introMessage: The status of my sites are listed below
   navbar:
     - title: Uptime Repo
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/Andrew-Forster/upptime
     - title: Personal / About Site
       url: https://andrewjf.com
     - title: Blog Site
