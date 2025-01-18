@@ -20,7 +20,7 @@ status-website:
   navbar:
     - title: Uptime Repo
       href: https://github.com/andrew-forster/upptime
-    - title: Personal / About Site
+    - title: Personal Site
       url: https://andrewjf.com
     - title: Blog Site
       url: https://blog.andrewjf.com
