@@ -43,7 +43,7 @@
     "url": "https://alchemyanalytix.com",
     "icon": "https://icons.duckduckgo.com/ip3/alchemyanalytix.com.ico",
     "slug": "alchemy-analytix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.13%",
@@ -55,6 +55,7 @@
     "timeMonth": 151,
     "timeYear": 180,
     "dailyMinutesDown": {
+      "2025-04-02": 0,
       "2025-03-31": 40,
       "2025-03-30": 33,
       "2025-03-29": 73,
