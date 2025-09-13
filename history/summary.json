@@ -4,7 +4,7 @@
     "url": "https://andrewjf.com",
     "icon": "https://icons.duckduckgo.com/ip3/andrewjf.com.ico",
     "slug": "personal-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.81%",
@@ -16,6 +16,7 @@
     "timeMonth": 1320,
     "timeYear": 438,
     "dailyMinutesDown": {
+      "2025-09-13": 0,
       "2025-09-10": 120,
       "2025-09-04": 34
     }
@@ -48,18 +49,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/alchemyanalytix.com.ico",
     "slug": "alchemy-analytix",
     "status": "down",
-    "uptime": "40.29%",
+    "uptime": "40.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.29%",
+    "uptimeYear": "40.16%",
     "time": 165,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-09-13": 83,
+      "2025-09-13": 1139,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
